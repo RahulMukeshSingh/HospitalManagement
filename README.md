@@ -1,0 +1,2 @@
+# HospitalManagement
+This project contains API for Hospital Management using Django REST Framework. This project provides a seamless connection between Departments such as Administration, Registration (Receptionist), Doctor and Dispensary.
